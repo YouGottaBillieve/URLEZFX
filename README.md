@@ -29,7 +29,7 @@ A versatile task for Android's Tasker and an equivalent Shortcut for iOS designe
 - **Creating a Widget / Shortcut**
   - Click and hold in an empty space on the Android home screen, until a dialog appears.
   - Select Widgets or Shortcuts
-  - Select Task or Task Timer (Widgets only)
+  - Select Task (Widgets only)
   - Pick URLEZFX
 
 
