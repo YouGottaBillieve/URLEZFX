@@ -1,0 +1,155 @@
+<TaskerData sr="" dvi="1" tv="6.4.9-beta">
+	<Task sr="task2">
+		<cdate>1738896646445</cdate>
+		<edate>1738898802155</edate>
+		<id>2</id>
+		<nme>URLEZFX</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>360</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%URL
+Input
+The text that was inserted in the dialog&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">Enter a URL</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="30"/>
+			<Str sr="arg5" ve="3">Text</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Str sr="arg8" ve="3">%URL</Str>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">twitch\.tv</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">fxtwitch.seria.moe</Str>
+		</Action>
+		<Action sr="act10" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg10" ve="3"/>
+			<Int sr="arg11" val="1"/>
+			<Int sr="arg12" val="0"/>
+			<Str sr="arg13" ve="3"/>
+			<Int sr="arg14" val="0"/>
+			<Str sr="arg15" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Int sr="arg9" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">twitter\.com</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">twitterez.com</Str>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">reddit\.com</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">redditez.com</Str>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">instagram\.com</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">instagramez.com</Str>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">youtube\.com</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">piped.video</Str>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">snapchat\.com</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">snapchatez.com</Str>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">tiktok\.com</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">tiktokez.com</Str>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>598</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Str sr="arg1" ve="3">x\.com</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="1"/>
+			<Str sr="arg7" ve="3">twitterez.com</Str>
+		</Action>
+		<Action sr="act9" ve="7">
+			<code>105</code>
+			<Str sr="arg0" ve="3">%URL</Str>
+			<Int sr="arg1" val="1"/>
+			<Str sr="arg2" ve="3"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<ProfileVariable sr="pv0">
+			<clearout>false</clearout>
+			<exportval></exportval>
+			<immutable>false</immutable>
+			<pvci>true</pvci>
+			<pvd></pvd>
+			<pvdn></pvdn>
+			<pvid>2</pvid>
+			<pvit>t</pvit>
+			<pvn>%aaa</pvn>
+			<pvt>t</pvt>
+			<strout>true</strout>
+		</ProfileVariable>
+	</Task>
+</TaskerData>
