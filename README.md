@@ -26,6 +26,13 @@ A versatile task for Android's Tasker and an equivalent Shortcut for iOS designe
 - **Import into Tasker:** Use the XML provided to import this task directly into Tasker.
 - **Integration:** Link this task with a profile in Tasker (like a button tap or a notification click) to use it in various contexts.
 
+- **Creating a Widget / Shortcut**
+  - Click and hold in an empty space on the Android home screen, until a dialog appears.
+  - Select Widgets or Shortcuts
+  - Select Task or Task Timer (Widgets only)
+  - Pick URLEZFX
+
+
 ### For iOS Shortcuts:
 
 - **Import into Shortcuts:** Download the `.shortcut` file from this repository and open it with the Shortcuts app to import.
