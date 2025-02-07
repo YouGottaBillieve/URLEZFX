@@ -14,7 +14,6 @@ A versatile task for Android's Tasker and an equivalent Shortcut for iOS designe
   - Redirects Reddit to `redditez.com`.
   - Switches Instagram to `instagramez.com`.
   - Changes YouTube links to `piped.video` for ad-free viewing.
-  - Modifies Snapchat links to `snapchatez.com`.
   - Alters TikTok URLs to `tiktokez.com`.
   - Transforms X (formerly Twitter) links to `twitterez.com`.
 - **Display:** Shows the modified URL via a flash message on Tasker or through a notification/action sheet on iOS Shortcuts.
